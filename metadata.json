@@ -1,0 +1,14 @@
+
+{
+  "name": "SR StockMaster Pro",
+  "short_name": "StockMaster",
+  "description": "Professional enterprise inventory maintenance system with real-time stock balance, movement logs, and AI analysis.",
+  "version": "1.0.0",
+  "author": "SR Enterprise Systems",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "theme_color": "#231F20",
+  "background_color": "#f8fafc",
+  "display": "standalone"
+}
